@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\bin\Debug\CSharpCollections.exe.config
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\bin\Debug\CSharpCollections.exe
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\bin\Debug\CSharpCollections.pdb
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\obj\Debug\CSharpCollections.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\obj\Debug\CSharpCollections.exe
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\obj\Debug\CSharpCollections.pdb
+C:\Users\Jonas\Desktop\testes c#\Alura\CSharpCollections\obj\Debug\CSharpCollections.csprojAssemblyReference.cache

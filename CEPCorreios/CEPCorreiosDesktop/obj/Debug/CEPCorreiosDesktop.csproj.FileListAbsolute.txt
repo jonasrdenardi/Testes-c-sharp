@@ -1,0 +1,10 @@
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\bin\Debug\CEPCorreiosDesktop.exe.config
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\bin\Debug\CEPCorreiosDesktop.exe
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\bin\Debug\CEPCorreiosDesktop.pdb
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.Form1.resources
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.Properties.Resources.resources
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.csproj.GenerateResource.cache
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.exe
+C:\Users\Jonas\Desktop\testes c#\CEPCorreios\CEPCorreiosDesktop\obj\Debug\CEPCorreiosDesktop.pdb

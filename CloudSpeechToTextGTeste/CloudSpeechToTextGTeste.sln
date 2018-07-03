@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudSpeechToTextGTeste", "CloudSpeechToTextGTeste\CloudSpeechToTextGTeste.csproj", "{38CB19F7-CCB3-4FB9-9466-BEF7538DBD9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CB19F7-CCB3-4FB9-9466-BEF7538DBD9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CB19F7-CCB3-4FB9-9466-BEF7538DBD9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CB19F7-CCB3-4FB9-9466-BEF7538DBD9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CB19F7-CCB3-4FB9-9466-BEF7538DBD9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78649776-D97E-42C4-A3EF-CBCAA0C4371D}
+	EndGlobalSection
+EndGlobal

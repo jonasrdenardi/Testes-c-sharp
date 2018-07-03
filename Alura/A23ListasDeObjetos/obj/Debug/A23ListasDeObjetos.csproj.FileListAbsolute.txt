@@ -1,0 +1,11 @@
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\bin\Debug\A23ListasDeObjetos.exe.config
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\bin\Debug\A23ListasDeObjetos.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\bin\Debug\A23ListasDeObjetos.pdb
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\obj\Debug\A23ListasDeObjetos.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\obj\Debug\A23ListasDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\obj\Debug\A23ListasDeObjetos.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A23ListasDeObjetos\obj\Debug\A23ListasDeObjetos.pdb
+C:\Users\Jonas\Desktop\testes c#\Alura\A23ListasDeObjetos\bin\Debug\A24ListaSomenteLeitura.exe
+C:\Users\Jonas\Desktop\testes c#\Alura\A23ListasDeObjetos\bin\Debug\A24ListaSomenteLeitura.pdb
+C:\Users\Jonas\Desktop\testes c#\Alura\A23ListasDeObjetos\bin\Debug\A24ListaSomenteLeitura.exe.config
+C:\Users\Jonas\Desktop\testes c#\Alura\A23ListasDeObjetos\obj\Debug\A23ListasDeObjetos.csproj.CopyComplete

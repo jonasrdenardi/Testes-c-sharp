@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\bin\Debug\A12Listas.exe.config
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\bin\Debug\A12Listas.exe
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\bin\Debug\A12Listas.pdb
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\obj\Debug\A12Listas.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\obj\Debug\A12Listas.exe
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\obj\Debug\A12Listas.pdb
+C:\Users\Jonas\Desktop\testes c#\Alura\A12Listas\obj\Debug\A12Listas.csprojAssemblyReference.cache

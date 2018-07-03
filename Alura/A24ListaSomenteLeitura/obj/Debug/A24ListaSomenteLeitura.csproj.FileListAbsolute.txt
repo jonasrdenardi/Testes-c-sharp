@@ -1,0 +1,7 @@
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\bin\Debug\A24ListaSomenteLeitura.exe.config
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\bin\Debug\A24ListaSomenteLeitura.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\bin\Debug\A24ListaSomenteLeitura.pdb
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A24ListaSomenteLeitura\obj\Debug\A24ListaSomenteLeitura.pdb
