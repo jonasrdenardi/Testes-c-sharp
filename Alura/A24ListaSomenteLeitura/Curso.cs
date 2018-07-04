@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace A24ListaSomenteLeitura
 {
-    class Curso
+    public class Curso
     {
         private IList<Aula> aulas;
 
@@ -16,7 +16,7 @@ namespace A24ListaSomenteLeitura
             get { return new ReadOnlyCollection<Aula>(aulas); }
         }
 
-        internal void Adiciona(Aula aula)
+        public void Adiciona(Aula aula)
         {
             this.aulas.Add(aula);
         }
@@ -44,5 +44,26 @@ namespace A24ListaSomenteLeitura
             set { instrutor = value; }
         }
 
+        public int TempoTotal
+        {
+            get
+            {
+                //int total = 0;
+                //foreach (var aula in aulas)
+                //{
+                //    total += aula.Tempo;
+                //}
+                //return total;
+
+                ////LINQ = Language Integrated Query
+                ////Consulta integrada à Linguagem
+
+                return aulas.Sum(aula => aula.Tempo);
+            }
+        }
+        public override string ToString()
+        {
+            return $"Curso: {nome}, Tempo: {TempoTotal},Aulas: {string.Join(",",aulas)}";
+        }
     }
 }

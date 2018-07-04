@@ -13,7 +13,6 @@ namespace A24ListaSomenteLeitura
             Curso csharpColecoes = new Curso("C# Collections", "Marcelo Oliveira");
 
             csharpColecoes.Adiciona(new Aula("Trabalhando com Listas",21));
-
             Imprimir(csharpColecoes.Aulas);
         }
 

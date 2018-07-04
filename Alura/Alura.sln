@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A23ListasDeObjetos", "A23Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A24ListaSomenteLeitura", "A24ListaSomenteLeitura\A24ListaSomenteLeitura.csproj", "{1A38F8D9-4431-4232-934E-0FEF68B2E522}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A25OrdenandoESomando", "A25OrdenandoESomando\A25OrdenandoESomando.csproj", "{1DF32D17-A477-4C07-A04E-9C5A5CB6DF42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1A38F8D9-4431-4232-934E-0FEF68B2E522}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A38F8D9-4431-4232-934E-0FEF68B2E522}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A38F8D9-4431-4232-934E-0FEF68B2E522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF32D17-A477-4C07-A04E-9C5A5CB6DF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF32D17-A477-4C07-A04E-9C5A5CB6DF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF32D17-A477-4C07-A04E-9C5A5CB6DF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF32D17-A477-4C07-A04E-9C5A5CB6DF42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

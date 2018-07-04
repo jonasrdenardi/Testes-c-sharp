@@ -1,0 +1,11 @@
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\bin\Debug\A25OrdenandoESomando.exe.config
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\bin\Debug\A25OrdenandoESomando.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\bin\Debug\A25OrdenandoESomando.pdb
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\bin\Debug\A24ListaSomenteLeitura.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\bin\Debug\A24ListaSomenteLeitura.pdb
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\bin\Debug\A24ListaSomenteLeitura.exe.config
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\obj\Debug\A25OrdenandoESomando.csprojAssemblyReference.cache
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\obj\Debug\A25OrdenandoESomando.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\obj\Debug\A25OrdenandoESomando.csproj.CopyComplete
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\obj\Debug\A25OrdenandoESomando.exe
+C:\Users\Jonas\Desktop\Testes c#\Alura\A25OrdenandoESomando\obj\Debug\A25OrdenandoESomando.pdb
