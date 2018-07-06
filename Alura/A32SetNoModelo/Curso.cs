@@ -4,11 +4,22 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using A32SetNoModelo;
 
 namespace A24ListaSomenteLeitura
 {
     public class Curso
     {
+        //Alunos deve ser um ISet. Alunos deve retornar ReadyOnlyCollection
+        private ISet<Aluno> alunos = new HashSet<Aluno>();
+        public IList<Aluno> Alunos
+        {
+            get
+            {
+                return new ReadOnlyCollection<Aluno>(alunos.ToList());
+            }
+        }
+
         private IList<Aula> aulas;
 
         public IList<Aula> Aulas
@@ -60,6 +71,11 @@ namespace A24ListaSomenteLeitura
 
                 return aulas.Sum(aula => aula.Tempo);
             }
+        }
+
+        internal void Matricula(Aluno aluno)
+        {
+            alunos.Add(aluno);
         }
 
         public override string ToString()
