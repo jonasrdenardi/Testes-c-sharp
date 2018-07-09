@@ -34,5 +34,17 @@ namespace A32SetNoModelo
         {
             return $"[Nome: {nome},Matricula: {numeroMatricula}]";
         }
+
+        public override bool Equals(object obj)
+        {
+            Aluno outro = obj as Aluno;
+
+            if (outro == null)
+            {
+                return false;
+            }
+
+            return this.nome.Equals(outro.nome);
+        }
     }
 }

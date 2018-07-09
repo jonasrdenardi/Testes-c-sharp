@@ -42,6 +42,23 @@ namespace A32SetNoModelo
             {
                 Console.WriteLine(aluno);
             }
+            //no formato "[Nome: , Matrícula: ]"
+
+            //Imprimir: "O Aluno a1 está matriculado ?"
+            Console.WriteLine($"O Aluno a1 {a1.Nome} está matriculado ?");
+            //Criar método EstaMatriculado
+            Console.WriteLine(csharpColecoes.EstaMatriculado(a1));
+            //Vamos instanciar uma aluno(Vanessa Tonini)
+            Aluno tonini = new Aluno("Vanessa Tonini", 34672);
+            //e verifica se Tonini está matriculada 
+            Console.WriteLine("Tonini está matriculada ?" + csharpColecoes.EstaMatriculado(tonini));
+            //Mas a1 == tonini ?
+            Console.WriteLine("a1 == tonini ?");
+            Console.WriteLine(a1 == tonini);
+            //O que ocorreu ? a1 é equals a Tonini ?
+            Console.WriteLine("a1 é equals a tonini ?");
+            Console.WriteLine(a1.Equals(tonini));
+
 
         }
     }
